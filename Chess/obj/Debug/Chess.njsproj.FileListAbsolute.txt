@@ -1,0 +1,3 @@
+D:\PersonalProjects\Chess\Chess\Chess\obj\Debug\Chess.njsprojResolveAssemblyReference.cache
+D:\PersonalProjects\Chess\Chess\Chess\obj\Debug\Chess.njsproj.CoreCompileInputs.cache
+D:\PersonalProjects\Chess\Chess\Chess\bin\Microsoft.NodejsTools.WebRole.dll
